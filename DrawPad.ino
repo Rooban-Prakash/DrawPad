@@ -22,8 +22,8 @@
 // WIFI SETTINGS
 // ============================================================
 
-const char* WIFI_SSID     = "FGH 1st floor 2.4G";
-const char* WIFI_PASSWORD = "Fgh9600165878";
+const char* WIFI_SSID     = "SSID_NAME";
+const char* WIFI_PASSWORD = "SSID_PASS";
 
 // Fallback ESP32 hotspot
 const char* AP_SSID       = "Frames_of_Rooban";
